@@ -1,0 +1,2 @@
+Si puedes ver este archivo estas en la rama "cabereca"
+o hiciste un merge de esta rama a main
