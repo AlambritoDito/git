@@ -10,3 +10,6 @@ Las ramas es una de las mejores cosas de Git.
 
 Un comando interesante es "git commit -am" ya que la bandera 'a' agrega todos
 los datos para que no tenga que hacer previamente el "git add"
+
+Este repositorio ahora se envia por medio de SSH (en vez de HTTPS)
+
